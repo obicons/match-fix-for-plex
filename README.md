@@ -41,6 +41,7 @@ You can use the `-titles` flag to specify a file containing a bunch of TV show t
 1. Using heuristics to remove unnecessary data from directory names
 2. Applying a fuzzy-search algorithm to find the best match
 3. Using popularity as a tie-breaker
+
 If something is constantly mismatched for you, then you can probably fix it by making the show's title appear earlier in the file specified by the `-titles` flag.
 
 ## Building
