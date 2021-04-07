@@ -16,7 +16,7 @@ Friends
  | Season 1
  | Season 2
  | Season 3
-star wars: the clone wars:
+star wars: the clone wars
  | Season 1
 ```
 And Plex will correctly match your shows. Note that no abbreviations are hard-coded into this app. Just try running, and see if it matches!
