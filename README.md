@@ -5,6 +5,7 @@ $ ls /plex-media/tv/
 Friends Season 1 COMPLETE 1080p/ 
 Friends Season 2/
 Friends.Season.3/
+swcw Season1/
 ```
 With these directory names, Plex will not match your shows correctly.
 
@@ -15,8 +16,10 @@ Friends
  | Season 1
  | Season 2
  | Season 3
+star wars: the clone wars:
+ | Season 1
 ```
-And Plex will correctly match your shows.
+And Plex will correctly match your shows. Note that no abbreviations are hard-coded into this app. Just try running, and see if it matches!
 
 ## Running
 ### Usage
